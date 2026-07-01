@@ -1,1 +1,1 @@
-Exercise from AIO2026. 
+Exercise from AIO2026
